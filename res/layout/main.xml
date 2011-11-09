@@ -3,6 +3,12 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/get_discovered_devices"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log discovered devices" />
 
     <TextView
         android:layout_width="fill_parent"
